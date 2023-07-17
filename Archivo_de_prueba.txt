@@ -1,0 +1,3 @@
+Archivo_de_prueba
+
+Aquí vamos a hacer una prueba con el texto para guardarlo en la carpeta que creamos hace poco en la terminal
