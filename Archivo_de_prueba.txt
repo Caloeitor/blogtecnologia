@@ -1,3 +1,5 @@
 Archivo_de_prueba
 
 Aquí vamos a hacer una prueba con el texto para guardarlo en la carpeta que creamos hace poco en la terminal. Además, agregaremos cambios para que nos tire error.
+
+Segundo párrafo de información que vamos a agregar
