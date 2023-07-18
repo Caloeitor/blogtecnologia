@@ -1,24 +1,19 @@
 body {
-    background-color: lightgreen;
+    background-color: rgb(249, 243, 237);
     text-align: center;
 }
 
-#logo {
-    background-color: lightgreen;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: white; 
-}
 
 #bloque-inicial {
     border: 5px;
     border-color: antiquewhite;
-    color: white;
+    color: rgb(18, 130, 161);
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
 
 .botones-menu {
-    border: solid 10px whitesmoke;
+    border: solid 3px whitesmoke;
     margin: 10px; 
 }
