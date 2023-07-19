@@ -39,3 +39,9 @@ body {
     color:aliceblue
 
 }
+
+#cabecera {
+    color:rgb(0, 119, 152);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px solid gray;
+}
