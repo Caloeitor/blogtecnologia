@@ -27,8 +27,8 @@ body {
 }
 
 .expandir-imagen{
-    width: 400px;
-    height: 300px;
+    width: 500px;
+    height:400px;
 }
 
 #bloque-info {
@@ -41,7 +41,7 @@ body {
 }
 
 #cabecera {
-    color:rgb(0, 119, 152);
+    color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 5px solid gray;
+    border-radius: 9px solid gray;
 }
