@@ -1,0 +1,22 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Un blog sobre tecnología e innovación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Caloeitor/blogtecnologia.git"
+  },
+  "author": "Cristian Longas O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caloeitor/blogtecnologia/issues"
+  },
+  "homepage": "https://github.com/Caloeitor/blogtecnologia#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
